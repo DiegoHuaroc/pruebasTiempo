@@ -1,0 +1,2 @@
+hora:minuto
+14:1
